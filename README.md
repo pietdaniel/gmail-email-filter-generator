@@ -20,7 +20,7 @@ Here is an example of what this would look like:
 python3 -m venv ./venv && source ./venv/bin/activate
 ```
 
-1. Run the script
+2. Run the script
 
 ```bash
 > python main.py -h
@@ -41,20 +41,20 @@ options:
 
 This will write a file called filters.xml to the local directory.
 
-1. Click the gear icon and click “See all settings”.
+3. Click the gear icon and click “See all settings”.
 
 ![](./static/001-see-all-settings.png)
 
-1. Navigate to the “Filters and Blocked Addresses” page. Alternatively, you ought to be able to use [this link](https://mail.google.com/mail/u/0/#settings/filters).
+4. Navigate to the “Filters and Blocked Addresses” page. Alternatively, you ought to be able to use [this link](https://mail.google.com/mail/u/0/#settings/filters).
 
 ![](./static/002-filter-and-blocked.png)
 
-1. Click “Choose File” and select the email filter you’d like to import. Click “Open File”.
+5. Click “Choose File” and select the email filter you’d like to import. Click “Open File”.
 
 ![](./static/003-choose-file.png)
 
-1. Be sure to click “Apply new filters to existing email”
+6. Be sure to click “Apply new filters to existing email”
 
 ![](./static/004-apply-new-filters.png)
 
-1. Then click “Create filters” and you should have your new filters.
+7. Then click “Create filters” and you should have your new filters.
