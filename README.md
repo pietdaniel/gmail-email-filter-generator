@@ -5,10 +5,10 @@ Generates an XML file which can be uploaded to mass create gmail email filters f
 
 # Description
 
-This is an opionated script to create mass create Github filters. It may be useful if you have github notifications
+This is an opinionated script to create mass create Github filters. It may be useful if you have Github notifications
 turned on for many repos and prefer to use email to review notifications.
 
-Here is an example of what this woud look like
+Here is an example of what this would look like:
 
 ![](./static/005-example.png)
 
