@@ -10,7 +10,7 @@ turned on for many repos and prefer to use email to review notifications.
 
 Here is an example of what this woud look like
 
-![](./static/004-example)
+![](./static/005-example.png)
 
 # Usage
 
