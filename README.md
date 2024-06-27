@@ -11,7 +11,7 @@ turned on for many repos and prefer to use email to review notifications.
 Here is an example of what this would look like:
 
 <p align="center">
-  <img src="./static/005-example.png" alt="Description" style="width: 50%; height: auto;">
+  <img src="./static/005-example.png" alt="Description" style="width: 20%; height: auto;">
 </p>
 
 
@@ -47,19 +47,19 @@ This will write a file called filters.xml to the local directory.
 3. Click the gear icon and click “See all settings”.
 
 <p align="center">
-  <img src="./static/001-see-all-settings.png" alt="Description" style="width: 50%; height: auto;">
+  <img src="./static/001-see-all-settings.png" alt="Description" style="width: 30%; height: auto;">
 </p>
 
 4. Navigate to the “Filters and Blocked Addresses” page. Alternatively, you ought to be able to use [this link](https://mail.google.com/mail/u/0/#settings/filters).
 
 <p align="center">
-  <img src="./static/002-filter-and-blocked.png" alt="Description" style="width: 50%; height: auto;">
+  <img src="./static/002-filter-and-blocked.png" alt="Description" style="width: 80%; height: auto;">
 </p>
 
 5. Click “Choose File” and select the email filter you’d like to import. Click “Open File”.
 
 <p align="center">
-  <img src="./static/003-choose-file.png" alt="Description" style="width: 50%; height: auto;">
+  <img src="./static/003-choose-file.png" alt="Description" style="width: 70%; height: auto;">
 </p>
 
 6. Be sure to click “Apply new filters to existing email”
