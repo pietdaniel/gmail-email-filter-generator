@@ -43,18 +43,26 @@ This will write a file called filters.xml to the local directory.
 
 3. Click the gear icon and click “See all settings”.
 
-![](./static/001-see-all-settings.png)
+<div style="text-align: center;">
+  <img src="./static/001-see-all-settings.png" alt="Description" style="width: 50%; height: auto;">
+</div>
 
 4. Navigate to the “Filters and Blocked Addresses” page. Alternatively, you ought to be able to use [this link](https://mail.google.com/mail/u/0/#settings/filters).
 
-![](./static/002-filter-and-blocked.png)
+<div style="text-align: center;">
+  <img src="./static/002-filter-and-blocked.png" alt="Description" style="width: 50%; height: auto;">
+</div>
 
 5. Click “Choose File” and select the email filter you’d like to import. Click “Open File”.
 
-![](./static/003-choose-file.png)
+<div style="text-align: center;">
+  <img src="./static/003-choose-file.png" alt="Description" style="width: 50%; height: auto;">
+</div>
 
 6. Be sure to click “Apply new filters to existing email”
 
-![](./static/004-apply-new-filters.png)
+<div style="text-align: center;">
+  <img src="./static/004-apply-new-filters.png" alt="Description" style="width: 50%; height: auto;">
+</div>
 
 7. Then click “Create filters” and you should have your new filters.
